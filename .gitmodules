@@ -1,3 +1,6 @@
 [submodule "make"]
 	path = make
 	url = git01@127.0.0.1:src/make.git
+[submodule "out"]
+	path = out
+	url = git01@127.0.0.1:src/out.git
