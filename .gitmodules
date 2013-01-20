@@ -4,3 +4,6 @@
 [submodule "out"]
 	path = out
 	url = git01@127.0.0.1:src/out.git
+[submodule "sample"]
+	path = sample
+	url = git01@127.0.0.1:src/sample.git
